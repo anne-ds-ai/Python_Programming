@@ -1,6 +1,6 @@
 # Art of Python
 
-*Last updated: 9 May 2026*
+*Last updated: 30 Jun 2026*
 
 This repository presents curated Python theory and practice inspired from *Python Programming*, *Data Science*, *Computer Science*, *AI in Medicine*, and *Bioinformatics Algorithm*, with applications in diverse scientific computing domains. 
 
