@@ -18,11 +18,7 @@ This repository presents curated Python theory and practice inspired from *Pytho
 | [Work with Time](https://github.com/SciComp8/Python_Programming/tree/main/Utilities/Date) | [Manage Python Versions](https://github.com/pyenv/pyenv) | |
 
 
-
 # Python Computing Toolkits
 - [Integrate with seaborn by overlaying statistical annotations](https://github.com/trevismd/statannotations)
 - [Automate data preprocessing, machine learning model construction, and hyper-parameters tuning](https://github.com/mljar/mljar-supervised)
 
-# Getting Help
-
-If you have any inquiries, don't hesitate to reach out at sci.comp.8@outlook.com.
