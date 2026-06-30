@@ -1,7 +1,7 @@
 # References:
 # https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html
 
-pd.read_csv() # Load comma seperated text file
+pd.read_csv() # Load comma seperated text file using the API read_csv from the pandas library
 file_name = 'CONNECTOME_MATRICES.csv'
 con_mat = pd.read_csv(file_path + file_name, index_col='Id')
 con_mat_2 = pd.read_csv(file_path + file_name, index_col='Id', true_values = ['yes'], false_values = ['no'])
