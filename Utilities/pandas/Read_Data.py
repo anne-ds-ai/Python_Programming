@@ -14,6 +14,9 @@ file_name = 'METADATA.xlsx'
 df_meta = pd.read_excel(file_path + file_name, sheet_name='combined')
 df_meta.head()
 
+# Read columns of interest
+df_meta = pd.read_excel(file_path + file_name, usecols = [0, 6]) # Load the 1st and 7th columns
+
 pd.read_json()
 pd.read_clipboard()
 
